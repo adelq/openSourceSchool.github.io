@@ -1,0 +1,58 @@
+- var style = "/main.css?r=" + encodeURIComponent(Math.random());
+
+doctype 5
+html
+  head
+    title openSourceSchool
+    link(href="#{style}", type="text/css", rel="stylesheet")
+    meta(charset="UTF-8")
+    meta(name="description", content="An initiative to replace monolithic and proprietary educational technology with open source software designed by student developers with students and independent developers in mind.")
+  body
+    header
+      h1 
+        i.icon.ion-compose
+        | openSourceSchool
+      nav
+        if current.source == "index"
+          a(href="/" class="current")
+            i.icon.ion-home 
+            | Home
+        else
+          a(href="/")
+            i.icon.ion-home 
+            | Home
+        if current.source == "about"
+          a.current(href="/about")
+            i.icon.ion-ios7-information
+            | About
+        else
+          a(href="/about")
+            i.icon.ion-ios7-information
+            | About
+        if current.source == "software"
+          a.current(href="/software")
+            i.icon.ion-code
+            | Software
+        else
+          a(href="/software")
+            i.icon.ion-code
+            | Software
+        a(href="http://github.com/openSourceSchool") 
+          i.icon.ion-social-github
+          | Contribute
+        if current.source == "contact"
+          a.current(href="/contact")
+            i.icon.ion-ios7-email 
+            | Contact
+        else
+          a(href="/contact")
+            i.icon.ion-ios7-email 
+            | Contact
+     if current.source == "index"
+       != yield
+     if current.source != "index"
+       .page
+         != yield
+     footer
+       p
+         | &copy; 2013 openSourceSchool.

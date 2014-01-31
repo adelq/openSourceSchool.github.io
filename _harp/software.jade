@@ -1,0 +1,7 @@
+- var software = public._data.software;
+h1 Software
+for item, slug in software
+  .item(class="#{slug}")
+    a(href="#{item.url}")
+      img(src="#{'http://g.etfv.co/' + encodeURIComponent(item.url) + '?defaulticon=lightpng'}")
+      h3= item.name
