@@ -38,9 +38,14 @@ html
           a(href="/software")
             i.icon.ion-code
             | Software
-        a(href="http://github.com/openSourceSchool") 
-          i.icon.ion-social-github
-          | Contribute
+        if current.source == "contribute"
+          a.current(href="/contribute") 
+            i.icon.ion-social-github
+            | Contribute
+        else
+          a(href="/contribute")
+            i.icon.ion-social-github
+            | Contribute
         if current.source == "contact"
           a.current(href="/contact")
             i.icon.ion-ios7-email 
