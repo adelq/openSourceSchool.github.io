@@ -14,7 +14,7 @@ This initiative will only work if student participation exists: students provide
 * Register to be a beta tester
 * Spread the word
 
-To find out more specifics, contact me @ krishna.dholakiya@gmail.com
+To find out more specifics, [contact me](/#request) and I'll get back to you ASAP.
 
 ## License
 
