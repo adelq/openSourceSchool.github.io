@@ -21,8 +21,8 @@
     p
       | Unlike most platforms that today's school use, open-source software will allow for compatibility among all types of systems. Don't see anything for your school's computer? Fork and start it up your self.
 #request
-  form(action="https://docs.google.com/forms/d/15rJFrUNQYxpO1Jp-2poNWUeXDvgD7_dC6AH-lDUd40U/formResponse", method="POST", target="hidden_iframe", onsubmit="submitted=true;")
+  form(action="//api.formspree.com/krishna.dholakiya@gmail.com", method="POST", target="hidden_iframe", onsubmit="submitted=true;")
     input(type="hidden" value="Info Request", name="entry.791470511")
-    input(type="email" placeholder="Email Address", name="entry.1531982526")
+    input(type="email" placeholder="Email Address", name="_replyto")
     input(type="submit" value="Request More Info")
   iframe(style="display:none;", name="hidden_iframe", onload="if(submitted) { alert('Thanks! We will get back to you soon.'); submitted=false;}")
