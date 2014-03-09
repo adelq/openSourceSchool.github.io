@@ -63,5 +63,6 @@ To apply, simply fill out this form:
 	<p>What do you see that needs improvement in educational technology?</p>
 	<textarea name="Improvements">
 	</textarea>
+	<input type="hidden" name="_next" value="http://openSourceSchool.github.io/thanks">
 	<input type="submit" value="Submit">
 </form>
