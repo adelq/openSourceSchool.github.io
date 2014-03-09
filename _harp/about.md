@@ -16,6 +16,8 @@ This initiative will only work if student participation exists: students provide
 
 To find out more specifics, [contact me](/#request) and I'll get back to you ASAP.
 
+<a href="/roadmap" class="btn" style="margin:10px;">Visit Our Roadmap</a>
+
 ## License
 
 The MIT License (MIT)

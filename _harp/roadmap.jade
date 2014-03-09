@@ -1,0 +1,10 @@
+h1 Roadmap
+for item in public._data.roadmap
+	.item
+		h3 #{item.name}
+		if item.completed == true
+			.checkwrap
+				input(type="checkbox", checked)
+		if item.completed == false
+			.checkwrap
+				input(type="checkbox", disabled)

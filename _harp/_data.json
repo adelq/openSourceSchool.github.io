@@ -8,5 +8,23 @@
 			"name": "openSchoolWeb",
 			"url": "http://github.com/openSourceSchool/openSchoolWeb"
 		}
+	},
+	"roadmap": {
+		"coreTeam": {
+			"name": "Build core team of developers",
+			"completed": false
+		},
+		"site": {
+			"name": "Build a web framework for schools",
+			"completed": false
+		},
+		"app": {
+			"name": "Build a mobile app framework for schools",
+			"completed": false
+		},
+		"gradebook": {
+			"name": "Build a gradebook application for schools",
+			"completed": false
+		}
 	}
 }
