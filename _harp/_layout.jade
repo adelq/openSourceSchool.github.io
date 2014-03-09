@@ -10,9 +10,10 @@ html
     meta(name="description", content="An initiative to replace monolithic and proprietary educational technology with open source software designed by student developers with students and independent developers in mind.")
   body
     header
-      h1 
-        i.icon.ion-compose
-        | openSourceSchool
+      h1
+        a(href="/") 
+          i.icon.ion-compose
+          | openSourceSchool
       nav
         if current.source == "index"
           a(href="/" class="current")
