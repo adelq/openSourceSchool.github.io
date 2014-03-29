@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/krrishd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://opensourceschool.github.io
+  * I am krrishd (https://keybase.io/krrishd) on keybase.
+  * I have a public key with fingerprint 9BBF 10C1 0D9C 89AD C0CA  7062 8936 5571 C6F8 2966
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "9bbf10c10d9c89adc0ca706289365571c6f82966",
+            "host": "keybase.io",
+            "key_id": "89365571c6f82966",
+            "uid": "b16af356efd9f5b7387e58aa84022100",
+            "username": "krrishd"
+        },
+        "service": {
+            "hostname": "opensourceschool.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396052226,
+    "expire_in": 157680000,
+    "prev": "50fb9e001d8aa0730239e242c85a1e7630b9ae31492d8279644694aab386f0bb",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMH/AnicbZFtSFRZGMdnzK3UXnz5orXGdqXGyUHOvXfu24CLrbBUurPFCEsoTvfl
+3Jlb7r3jvXdmlFGSVVJZZiNZELS+7RfxDYzMREHLdCw/1BYlGYnQGiQqGytUFOO5
+Zt/2fDmc//k9//9zzjO9f5ct3f7DAe8vLYu5uv3hZDJs89FZKTFM0KQGzBPDLsHt
+TVbUANRDuqKamAfjBEHGgYgDiRNZjpdEIPIMoAmWI2mKYnCRllmCo2nMhQU1w6pA
+NgJvwGJFQxo6+BUJqf/Dh7cvBJzmZZKioSxxMiUwJMtAiuV51g0IAgfAAg2oq/yv
+0DLXdcUISliTC0NiRBGRGNtO3gG0EFQNLayL0BCDmlZbHFDMYFj40k1I10xN1GoR
+FzTNkOGxfMyGkFUYhYJ/x9IvKKqEfgFVRKBuKJqKeXBEiqZiZeAkRwOKIAjahcH6
+kKJDv2IRFEOzAC0rB0aQJQVkgYMA4BJ6D2BIQJAcJNyEyFI8DhmaBALHQxJ3c4TE
+EgxHu9005+Z5gWRpGQgCyjdgnaphHgq1yQeQpaEEVN4M6xBrujtZnWqzp9t2f5Ni
+zdGWnpb5dbrJf/YkvQP3rk6udGX+ueKNFo7mZ9x5sL5R53URWcHX4cS5lprp+t9j
+TsfntXnwk+MpWCp6s9qawZ5pnstvcsQTBSPft+YkujvmzgbHxnqrai78vFC4GPng
+y57ad3FiPHn6ds1fQ04H4yiZpcpHSjvOD/oOtoTK2jqnZrIPFaVufIpfq2zM97dv
+xnsrnpflScOn/k509gxXv31fuq5nNd968sf6y9zavihX5WysP/mjz1m5GQ0P2l9c
+dx65f+y//qVvPw61nxifaOwZnZ9xHiXLr9yMTA0vxNe6mZzRR7+llvQf33vZ66h4
+lzfrVR/3DSwXHcb5rldtJWnLBYXJZ/+mDK1+d2ML63kUfw==
+=LPyx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/krrishd
+
+==================================================================
+
