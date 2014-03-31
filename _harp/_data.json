@@ -26,5 +26,15 @@
 			"name": "Build a gradebook application for schools",
 			"completed": false
 		}
+	},
+	"sponsors": {
+		"treehouse": {
+			"logo": "http://2013.raleigh.wordcamp.org/files/2013/11/Treehouse-Logo-382x270.png",
+			"url": "http://teamtreehouse.com"
+		},
+		"typeform": {
+			"logo": "http://dwisswa367b25.cloudfront.net/wp-content/themes/typeform_landing_page/img/typeform.png",
+			"url": "http://typeform.com"
+		}
 	}
 }

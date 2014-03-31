@@ -21,6 +21,11 @@
     p
       | Unlike most platforms that today's school use, open-source software will allow for compatibility among all types of systems. Don't see anything for your school's computer? Fork and start it up your self.
 #request
+  #sponsors
+    h1 Sponsored By
+    for sponsor in public._data.sponsors
+      a.sponsor(href="#{sponsor.url}")
+        img(src="#{sponsor.logo}")
   form(action="//api.formspree.com/krishna.dholakiya@gmail.com", method="POST", target="hidden_iframe", onsubmit="submitted=true;")
     input(type="hidden" value="Info Request - openSourceSchool", name="Purpose:")
     input(type="email" placeholder="Email Address", name="_replyto")
