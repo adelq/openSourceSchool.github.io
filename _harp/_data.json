@@ -35,6 +35,10 @@
 		"typeform": {
 			"logo": "http://dwisswa367b25.cloudfront.net/wp-content/themes/typeform_landing_page/img/typeform.png",
 			"url": "http://typeform.com"
+		},
+		"prismic": {
+			"logo": "https://prismic.io/...bb2ff27/images/1024.png",
+			"url": "http://prismic.io"
 		}
 	}
 }
