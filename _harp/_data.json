@@ -1,12 +1,8 @@
 {
 	"software": {
 		"openSchoolApp": {
-			"name": "openSchool Mobile App",
+			"name": "openSchool Mobile",
 			"url": "http://github.com/openSourceSchool/openSchoolMobile"
-		},
-		"openSchoolWeb": {
-			"name": "openSchoolWeb",
-			"url": "http://github.com/openSourceSchool/openSchoolWeb"
 		}
 	},
 	"roadmap": {

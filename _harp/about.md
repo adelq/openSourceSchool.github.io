@@ -1,22 +1,18 @@
 # openSourceSchool
 
-An initiative to replace monolithic and proprietary educational technology with open source software designed by student developers with students and independent developers in mind. 
+An initiative to replace monolithic and proprietary educational technology with open source software. This software, unlike its predecessors, will incorporate principles of simplicity, modularity, as well as design thinking.
 
 ## Why?
 
-As a student myself, I have found one thing lacking in our current educational system: openness of technology. One would think that public institutions would be proponents of open source, but often times one sees that these systems seem to favor proprietary options for their gradebook management software, mobile applications, and more. Many times, these systems do not have the user or student in mind, rather they aim to increase their revenue by ensuring that they are the only providers of their technology, which often results in poor UX and technical decisions. I have also seen that students of this generation are well acquainted with technology, and some of us are even experienced with programming and development. Pooling together these skills with our unique perspectives as users of these technologies, we can better the way education interfaces with technology by building it ourselves.
+As a student myself, I have found one thing lacking in our current educational system: openness of technology. One would think that public institutions would be proponents of open source, but often times one sees that these systems seem to favor proprietary options for their software. These options, despite their significant costs, lack a desirable user experience, often creating the sentiment that software altogether is counterproductive in education. By harmonizing superior design and development concepts, we hope to create an array of superior options of software for education, all while keeping it free and open to contribute to and change.
 
 ## Get Involved
 
 This initiative will only work if student participation exists: students provide unique input in terms of user experience, as well as technical decisions. There are many ways to get involved:
 
 * Help develop the software
-* Register to be a beta tester
+* Become a beta tester
 * Spread the word
-
-To find out more specifics, [contact me](/#request) and I'll get back to you ASAP.
-
-<a href="/roadmap" class="btn" style="margin:10px;">Visit Our Roadmap</a>
 
 ## License
 

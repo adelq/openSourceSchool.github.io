@@ -1,21 +1,11 @@
 # Apply
 
-openSourceSchool is a student-run initiative, so it is essential that we have a strong team running the core operations. We always appreciate open source contributions from anyone, but we are also currently looking to hire student volunteers interested in working with us more quickly.
+openSourceSchool is a student-run initiative, so it is essential that we have a strong team running the core operations. We always appreciate open source contributions from anyone, but we are also currently looking to hire student volunteers interested in working with us more closely.
 
 
 Current positions open are:
 
 ---
-
-**Executive Team**
-
-* Chief Technology Officer
-* Chief Operations Officer
-* Chief Marketing Officer
-
----
-
-**Technical Team**
 
 * Website Framework Development Team
 	* Project Manager
@@ -40,9 +30,6 @@ To apply, simply fill out this form:
 	<input type="text" name="Twitter" placeholder="Twitter Handle (Optional)">
 	<select name="Job">
 		<option value="NOPE" selected>Choose your preferred position</option>
-		<option value="Chief Technology Officer">CTO</option>
-		<option value="Chief Operations Officer">COO</option>
-		<option value="Chief Marketing Officer">CMO</option>
 		<option value="Project Manager (Web)">Project Manager (Web)</option>
 		<option value="Designer (Web)">Designer (Web)</option>
 		<option value="Front-End Web Developer">Front-End Web Dev</option>
