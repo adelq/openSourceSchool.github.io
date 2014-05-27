@@ -6,6 +6,17 @@ An initiative to replace monolithic and proprietary educational technology with 
 
 As a student myself, I have found one thing lacking in our current educational system: openness of technology. One would think that public institutions would be proponents of open source, but often times one sees that these systems seem to favor proprietary options for their software. These options, despite their significant costs, lack a desirable user experience, often creating the sentiment that software altogether is counterproductive in education. By harmonizing superior design and development concepts, we hope to create an array of superior options of software for education, all while keeping it free and open to contribute to and change.
 
+## Software
+
+We are going to start with an open source website framework (available as a static site or CMS), but our goal is to eventually include open source as well as hosted versions of:
+
+- a website framework (static + CMS)
+- a mobile application framework
+- a learning management system
+- a gradebook platform
+- an open data platform for school districts
+	- allows developers to then build apps based on public APIs
+
 ## Get Involved
 
 This initiative will only work if student participation exists: students provide unique input in terms of user experience, as well as technical decisions. There are many ways to get involved:
