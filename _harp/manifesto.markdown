@@ -37,3 +37,20 @@ To create a design that creates a desirable user experience for all parties invo
 In order to ensure that all of our software has a consistent user experience, we will follow certain design patterns throughout development. We will utilize skeuomorphism where we need to create functionality that emulates physical elements, such as buttons. At the same time, we will adhere to a minimal experience, so that our interfaces are not overwhelming to users.
 
 We will also work in a feedback-oriented manner, soliciting feedback from users in order to iteratively push changes that will enhance the experience while remaining consistent with what the user is used to doing.
+
+### Design Thinking
+
+[Brief Description of Design Thinking](http://en.wikipedia.org/wiki/Design_thinking#Overview)
+
+Design Thinking is characterized by three tenets: empathy, creativity, and rationality. To incorporate design thinking into our software, it is crucial that we address all three.
+
+- Empathy
+	- To comprehend what kind of empathy is necessary when developing the software, it is essential to understand the context and users of the software
+		- students
+		- teachers
+	- The primary team of developers is comprised of students experienced in various technical fields
+	- Testing/Feedback will be primarily solicited from students and teachers, the primary users of the software and most accessible
+	- An advisory board of educational professionals will be created, from which initial feedback will be received in addition to other advice and ideas
+- Creativity
+	- Rather than simply recreating existing software utilizing the aforementioned principles, every effort will be made to innovate and conceptualize new features and implement them, eventually making them the standard
+- Rationality
