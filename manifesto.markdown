@@ -57,5 +57,5 @@ Design Thinking is characterized by three tenets: empathy, creativity, and ratio
 	- We will utilize a pragmatic approach in development
 		- We will use the industry-standards in languages, frameworks, tools, and practices
 		- We will adopt an iterative style of development, ensuring a balance between consistency and improvement
-	-	- We will refrain from implementing global features based on individual requests, to ensure that our software addresses all of our userbase instead of addressing some while neglecting other needs
+		- We will refrain from implementing global features based on individual requests, to ensure that our software addresses all of our userbase instead of addressing some while neglecting other needs
 	- We will develop with the educational institutions and their limitations in mind
